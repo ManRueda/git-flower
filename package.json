@@ -1,0 +1,23 @@
+{
+  "name": "git-flower",
+  "version": "0.0.1",
+  "description": "Git Flow helper dev dependency",
+  "main": "bin/git-flow",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManRueda/git-flower.git"
+  },
+  "keywords": [
+    "git",
+    "flow"
+  ],
+  "author": "Manuel Rueda <manuel.rueda.un@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ManRueda/git-flower/issues"
+  },
+  "homepage": "https://github.com/ManRueda/git-flower#readme"
+}
